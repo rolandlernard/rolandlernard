@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @rolandlernard
-- 👀 I’m interested in web developing 
-- 🌱 I’m currently learning Web developing
-- 💞️ I’m looking to collaborate on web developing
+🚀 About Me
+
+Myself Roland Lernard.
+I'm a front-end developer...
+
+🛠 Skills Known
+
+HTML5, CSS3...
 
 
 
